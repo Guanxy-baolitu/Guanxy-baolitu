@@ -37,13 +37,6 @@
     </url>
 
     <url>
-        <loc>https://guanxy-baolitu.github.io/tags/photoshop/</loc>
-        <lastmod>2018-01-20T04:46:37.562Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://guanxy-baolitu.github.io/tags/Indesign/</loc>
         <lastmod>2018-01-20T04:46:37.562Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -58,22 +51,29 @@
     </url>
 
     <url>
-        <loc>https://guanxy-baolitu.github.io/tags/Unity3D/</loc>
-        <lastmod>2018-01-21T02:20:51.200Z</lastmod>
+        <loc>https://guanxy-baolitu.github.io/tags/Maya/</loc>
+        <lastmod>2018-01-21T02:22:05.249Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://guanxy-baolitu.github.io/tags/Maya/</loc>
-        <lastmod>2018-01-21T02:20:51.200Z</lastmod>
+        <loc>https://guanxy-baolitu.github.io/tags/Unity3D/</loc>
+        <lastmod>2018-01-21T02:22:05.249Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://guanxy-baolitu.github.io/tags/AR/</loc>
-        <lastmod>2018-01-21T02:20:51.200Z</lastmod>
+        <lastmod>2018-01-21T02:22:05.249Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://guanxy-baolitu.github.io/tags/photoshop/</loc>
+        <lastmod>2018-01-21T02:23:11.924Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
