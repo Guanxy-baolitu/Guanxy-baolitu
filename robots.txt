@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://guanxy-baolitu.github.io/Guanxy-baolitu.github.io/sitemap.xml
