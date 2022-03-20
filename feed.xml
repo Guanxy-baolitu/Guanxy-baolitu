@@ -3,10 +3,31 @@
     <title>关关的杂货小窝</title>
     <link href="https://guanxy-baolitu.github.io/Guanxy-baolitu.github.io/feed.xml" rel="self" />
     <link href="https://guanxy-baolitu.github.io/Guanxy-baolitu.github.io" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2022-03-20T16:39:06+08:00</updated>
     <author>
         <name>关关</name>
     </author>
     <id>https://guanxy-baolitu.github.io/Guanxy-baolitu.github.io</id>
 
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>关关</name>
+        </author>
+        <link href="https://guanxy-baolitu.github.io/Guanxy-baolitu.github.io/test.html"/>
+        <id>https://guanxy-baolitu.github.io/Guanxy-baolitu.github.io/test.html</id>
+
+        <updated>2022-03-20T16:39:06+08:00</updated>
+            <summary>
+                <![CDATA[
+                    第一篇
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>第一篇</p>
+
+            ]]>
+        </content>
+    </entry>
 </feed>
