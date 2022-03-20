@@ -3,10 +3,277 @@
     <title>关关的杂货小窝</title>
     <link href="https://github.com/Guanxy-baolitu/Guanxy-baolitu.github.io.git/feed.xml" rel="self" />
     <link href="https://github.com/Guanxy-baolitu/Guanxy-baolitu.github.io.git" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2022-03-20T20:32:56+08:00</updated>
     <author>
         <name>关关</name>
     </author>
     <id>https://github.com/Guanxy-baolitu/Guanxy-baolitu.github.io.git</id>
 
+    <entry>
+        <title>安琪拉角色建模</title>
+        <author>
+            <name>关关</name>
+        </author>
+        <link href="https://github.com/Guanxy-baolitu/Guanxy-baolitu.github.io.git/an-qi-la-jiao-se-jian-mo.html"/>
+        <id>https://github.com/Guanxy-baolitu/Guanxy-baolitu.github.io.git/an-qi-la-jiao-se-jian-mo.html</id>
+
+        <updated>2022-03-20T20:32:56+08:00</updated>
+            <summary>
+                <![CDATA[
+                    角色设计课程习作
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>角色设计课程习作
+<figure class="post__image"><img loading="lazy" src="https://user-images.githubusercontent.com/18230226/159162129-6b1a021f-b44f-4f30-9421-ff3db3bc7b05.jpg" data-is-external-image="true"  alt="图" /></figure></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>工业设计习作——蜗壳手电/地毯灯</title>
+        <author>
+            <name>关关</name>
+        </author>
+        <link href="https://github.com/Guanxy-baolitu/Guanxy-baolitu.github.io.git/gong-ye-she-ji-xi-zuo-gua-ke-shou-diandi-tan-deng.html"/>
+        <id>https://github.com/Guanxy-baolitu/Guanxy-baolitu.github.io.git/gong-ye-she-ji-xi-zuo-gua-ke-shou-diandi-tan-deng.html</id>
+
+        <updated>2022-03-20T20:27:53+08:00</updated>
+            <summary>
+                <![CDATA[
+                    卷尺式伸缩手电概念设计 床头地毯式夜间压力感应控制灯 描述 睡前将鞋子自然脱在地毯上，夜间起床后以鞋子离开地毯为触发点，亮起灯带，便于夜间活动 其余时间可以开关控制灯具 分工 团队头脑风暴 展板制作
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>卷尺式伸缩手电概念设计</p>
+<p>床头地毯式夜间压力感应控制灯</p>
+<p>描述
+睡前将鞋子自然脱在地毯上，夜间起床后以鞋子离开地毯为触发点，亮起灯带，便于夜间活动
+其余时间可以开关控制灯具
+分工
+团队头脑风暴
+展板制作</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>基于HoloLens平台的混合现实游戏设计与实现</title>
+        <author>
+            <name>关关</name>
+        </author>
+        <link href="https://github.com/Guanxy-baolitu/Guanxy-baolitu.github.io.git/ji-yu-hololensping-tai-de-hun-he-xian-shi-you-xi-she-ji-yu-shi-xian.html"/>
+        <id>https://github.com/Guanxy-baolitu/Guanxy-baolitu.github.io.git/ji-yu-hololensping-tai-de-hun-he-xian-shi-you-xi-she-ji-yu-shi-xian.html</id>
+            <category term="项目"/>
+
+        <updated>2022-03-20T19:36:27+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://github.com/Guanxy-baolitu/Guanxy-baolitu.github.io.git/media/posts/2/WelcomeMenu_Bgd_Title.png" alt="" />
+                    项目描述 玩家作为通晓花语的花艺师，要用来自花界的法术，实现人们许在荷灯上的祈祷失而复得的心愿。在HoloLens混合现实场景下，玩家须根据心愿残影提示，徒手在空气中一笔画出失物。还可尝试用现实中的墙壁反射虚拟光线、用现实中的手机拍摄虚拟人像等，获取实现全部荷灯心愿所需道具。作品所含其他亮点包括涂鸦功能、基于绘制线的变形动画效果、花材对失物的染色效果等 HoloLens端源码压缩包及Android端apk 链接：https://pan.baidu.com/s/1O3HHu2RvMEWq_2l5LKiHhw 密码：3f0t Android端源码 https://github.com/Guanxy-baolitu/HoloFloristCamera.git
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://github.com/Guanxy-baolitu/Guanxy-baolitu.github.io.git/media/posts/2/WelcomeMenu_Bgd_Title.png" alt="" />
+                <h4 id="项目描述">项目描述</h4>
+<p>玩家作为通晓花语的花艺师，要用来自花界的法术，实现人们许在荷灯上的祈祷失而复得的心愿。在HoloLens混合现实场景下，玩家须根据心愿残影提示，徒手在空气中一笔画出失物。还可尝试用现实中的墙壁反射虚拟光线、用现实中的手机拍摄虚拟人像等，获取实现全部荷灯心愿所需道具。作品所含其他亮点包括涂鸦功能、基于绘制线的变形动画效果、花材对失物的染色效果等</p>
+<div class="post__iframe"><iframe loading="lazy" frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=m0667kxhx6e" allowfullscreen="true"></iframe></div>
+
+
+<ul>
+<li><p>HoloLens端源码压缩包及Android端apk
+链接：<a href="https://pan.baidu.com/s/1O3HHu2RvMEWq_2l5LKiHhw">https://pan.baidu.com/s/1O3HHu2RvMEWq_2l5LKiHhw</a> 密码：3f0t</p>
+</li>
+<li><p>Android端源码
+<a href="https://github.com/Guanxy-baolitu/HoloFloristCamera.git">https://github.com/Guanxy-baolitu/HoloFloristCamera.git</a></p>
+</li>
+</ul>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>盗梦空间电影情节可视化交互页面</title>
+        <author>
+            <name>关关</name>
+        </author>
+        <link href="https://github.com/Guanxy-baolitu/Guanxy-baolitu.github.io.git/dao-meng-kong-jian-dian-ying-qing-jie-ke-shi-hua-jiao-hu-ye-mian.html"/>
+        <id>https://github.com/Guanxy-baolitu/Guanxy-baolitu.github.io.git/dao-meng-kong-jian-dian-ying-qing-jie-ke-shi-hua-jiao-hu-ye-mian.html</id>
+
+        <updated>2022-03-20T19:35:43+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://github.com/Guanxy-baolitu/Guanxy-baolitu.github.io.git/media/posts/3/Inception.jpg" alt="" />
+                    项目属性 跨媒体数据可视化课程project 演示页面 https://guanxy-baolitu.github.io/Storyline-of-movie-Inception/index.html# （图片加载有延迟） 项目地址 https://github.com/Guanxy-baolitu/Storyline-of-movie-Inception 影片《盗梦空间》是游走于梦境与现实之间的动作科幻片，采用深色背景上的各色气泡来体现“梦”这一主要意象。圆形和弧线有张力的排布体现“幻”的感觉 设计图底部的朴素灰色表示现实，彩色的圆形表示梦，圆外的黑暗表示潜意识。辅助线标识梦的层次，圆的相交关系表示梦与梦的嵌套。人物线在圆中，若进入下一层梦则进入下一个圆。从而解决本片逻辑上的难点。 尽量少用文字表达信息。一方面使用颜色：如金色线代表现实，白色线代表进入梦境，绿色线代表人物进入“迷失域”，蓝色线代表受“Kick”返回，黑色线代表该人物实际为潜意识投影。另一方面使用图标：如以十字架表示死亡，如飞机事件会使用 。作品特性 特性一：层次划分清晰&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://github.com/Guanxy-baolitu/Guanxy-baolitu.github.io.git/media/posts/3/Inception.jpg" alt="" />
+                <h4 id="项目属性">项目属性</h4>
+<p>跨媒体数据可视化课程project</p>
+<p><strong>演示页面</strong><br><a href="https://guanxy-baolitu.github.io/Storyline-of-movie-Inception/index.html#">https://guanxy-baolitu.github.io/Storyline-of-movie-Inception/index.html#</a> （图片加载有延迟）</p>
+<p><strong>项目地址</strong> 
+<a href="https://github.com/Guanxy-baolitu/Storyline-of-movie-Inception">https://github.com/Guanxy-baolitu/Storyline-of-movie-Inception</a></p>
+<ul>
+<li>影片《盗梦空间》是游走于梦境与现实之间的动作科幻片，采用深色背景上的各色气泡来体现“梦”这一主要意象。圆形和弧线有张力的排布体现“幻”的感觉</li>
+<li>设计图底部的朴素灰色表示现实，彩色的圆形表示梦，圆外的黑暗表示潜意识。辅助线标识梦的层次，圆的相交关系表示梦与梦的嵌套。人物线在圆中，若进入下一层梦则进入下一个圆。从而解决本片逻辑上的难点。</li>
+<li>尽量少用文字表达信息。一方面使用颜色：如金色线代表现实，白色线代表进入梦境，绿色线代表人物进入“迷失域”，蓝色线代表受“Kick”返回，黑色线代表该人物实际为潜意识投影。另一方面使用图标：如以十字架表示死亡，如飞机事件会使用 。<h3 id="作品特性">作品特性</h3>
+</li>
+<li>特性一：层次划分清晰
+意义是：场景中的事件以不同颜色的线条串联，圆的面积大小反应不同层次梦境的时间尺度，线条和圆的组合可以很好地反应人物和场景的关系。在美观的基础上，更好地展现影片的时空顺序和逻辑顺序，有更强的空间感，解决了传统storyline只有单线时间轴的弊端。</li>
+<li>特性二：色彩表意丰富
+意义是：除线的颜色表示人物的状态外，圆的颜色也与梦的场景基调一致，如二人世界的粉红，雨天的青，厅堂的暖黄，雪山的蓝白，亡妻的深紫等。起到重现影片画面与深化逻辑关系的作用，。</li>
+<li>特性三：善用图标
+意义是：图标简介明了，有设计感，能表达的信息多，对梳理剧情顺序，介绍剧情流程都有很大的帮助。尤其是每一层梦的进入，跳出，以及一层梦的关键事件，都可以用图标来表达。</li>
+<li>特性四：交互事件表达更多信息
+意义是：每一层梦都可以通过交互事件查看详细信息，详细信息是由图标构成的事件流程，辅以适量的文字说明，既有利于故事的逻辑梳理、情节完善，又可增加趣味性</li>
+</ul>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>语音交互自助视力检测系统</title>
+        <author>
+            <name>关关</name>
+        </author>
+        <link href="https://github.com/Guanxy-baolitu/Guanxy-baolitu.github.io.git/yu-yin-jiao-hu-zi-zhu-shi-li-jian-ce-xi-tong.html"/>
+        <id>https://github.com/Guanxy-baolitu/Guanxy-baolitu.github.io.git/yu-yin-jiao-hu-zi-zhu-shi-li-jian-ce-xi-tong.html</id>
+            <category term="项目"/>
+
+        <updated>2022-03-20T19:58:31+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://github.com/Guanxy-baolitu/Guanxy-baolitu.github.io.git/media/posts/7/HCI.jpg" alt="" />
+                    项目属性 项目描述 基于flask框架的网页app 以语音输入为主要交互方式，完成自助视力检测过程 提供用户注册登录供能，以供视力变化趋势分析 创意 框架搭建，含页面跳转及数据存储处理 用户管理逻辑
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://github.com/Guanxy-baolitu/Guanxy-baolitu.github.io.git/media/posts/7/HCI.jpg" alt="" />
+                <h4 id="项目属性">项目属性</h4>
+<h4 id="项目描述">项目描述</h4>
+<p>基于flask框架的网页app
+以语音输入为主要交互方式，完成自助视力检测过程
+提供用户注册登录供能，以供视力变化趋势分析</p>
+<div class="post__iframe"><iframe loading="lazy" frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=l0543hlzbgp&amp;tiny=0&amp;auto=0" allowfullscreen=""></iframe></div>
+
+<h4 id="项目分工">项目分工</h4>
+<p>创意
+框架搭建，含页面跳转及数据存储处理
+用户管理逻辑</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>HTC Vive虚拟现实解谜类游戏-药道寻踪</title>
+        <author>
+            <name>关关</name>
+        </author>
+        <link href="https://github.com/Guanxy-baolitu/Guanxy-baolitu.github.io.git/htc-vivexu-ni-xian-shi-jie-mi-lei-you-xi-yao-dao-xun-zong.html"/>
+        <id>https://github.com/Guanxy-baolitu/Guanxy-baolitu.github.io.git/htc-vivexu-ni-xian-shi-jie-mi-lei-you-xi-yao-dao-xun-zong.html</id>
+            <category term="项目"/>
+
+        <updated>2022-03-20T19:34:41+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://github.com/Guanxy-baolitu/Guanxy-baolitu.github.io.git/media/posts/4/Pharmacy_Maze.jpg" alt="" />
+                    项目属性 虚拟现实与数字娱乐课程Project 入围腾讯Next·Idea高校游戏创意制作大赛复赛 描述 以清代胡庆余堂为背景，讲述主人公穿越回古代寻药救人的故事。玩家需要使用VR头显在场景中漫游，通过观察和解谜，打开机关，找到药方 组长 主程序 视频剪辑制作
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://github.com/Guanxy-baolitu/Guanxy-baolitu.github.io.git/media/posts/4/Pharmacy_Maze.jpg" alt="" />
+                <h4 id="项目属性">项目属性</h4>
+<ul>
+<li>虚拟现实与数字娱乐课程Project</li>
+<li>入围腾讯Next·Idea高校游戏创意制作大赛复赛</li>
+</ul>
+<h4 id="描述">描述</h4>
+<p>以清代胡庆余堂为背景，讲述主人公穿越回古代寻药救人的故事。玩家需要使用VR头显在场景中漫游，通过观察和解谜，打开机关，找到药方</p>
+<div class="post__iframe"><iframe loading="lazy" frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=n0535hx81o0&amp;tiny=0&amp;auto=0" allowfullscreen=""></iframe></div>
+
+
+<h4 id="分工">分工</h4>
+<p>组长
+主程序
+视频剪辑制作</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>老吾老助老公益手机App</title>
+        <author>
+            <name>关关</name>
+        </author>
+        <link href="https://github.com/Guanxy-baolitu/Guanxy-baolitu.github.io.git/lao-wu-lao-zhu-lao-gong-yi-shou-ji-app.html"/>
+        <id>https://github.com/Guanxy-baolitu/Guanxy-baolitu.github.io.git/lao-wu-lao-zhu-lao-gong-yi-shou-ji-app.html</id>
+            <category term="项目"/>
+
+        <updated>2022-03-20T19:50:54+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://github.com/Guanxy-baolitu/Guanxy-baolitu.github.io.git/media/posts/6/lwl.jpg" alt="" />
+                    项目属性 浙江大学大学生科研训练计划（SRTP），结题评议优 项目描述 提供在线平台，使老人可以在平台上以最简单的操作发布求助信息。志愿者注册后可查看附近求助信息，并在接受请求后对老人提供志愿服务。 项目由服务端-老人端-志愿者端三人完成 项目参加研究生创新大赛获三等奖 项目在SRTP评议优秀 志愿者端编写 视频（含开场动画）剪辑制作
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://github.com/Guanxy-baolitu/Guanxy-baolitu.github.io.git/media/posts/6/lwl.jpg" alt="" />
+                <h4 id="项目属性">项目属性</h4>
+<ul>
+<li>浙江大学大学生科研训练计划（SRTP），结题评议优</li>
+</ul>
+<h4 id="项目描述">项目描述</h4>
+<p>提供在线平台，使老人可以在平台上以最简单的操作发布求助信息。志愿者注册后可查看附近求助信息，并在接受请求后对老人提供志愿服务。
+项目由服务端-老人端-志愿者端三人完成
+项目参加研究生创新大赛获三等奖
+项目在SRTP评议优秀</p>
+<h4 id="项目分工">项目分工</h4>
+<p>志愿者端编写
+视频（含开场动画）剪辑制作</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>树莓派舞厅智能音响移动端</title>
+        <author>
+            <name>关关</name>
+        </author>
+        <link href="https://github.com/Guanxy-baolitu/Guanxy-baolitu.github.io.git/shu-mei-pai-wu-ting-zhi-neng-yin-xiang-yi-dong-duan.html"/>
+        <id>https://github.com/Guanxy-baolitu/Guanxy-baolitu.github.io.git/shu-mei-pai-wu-ting-zhi-neng-yin-xiang-yi-dong-duan.html</id>
+
+        <updated>2022-03-20T19:59:30+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://github.com/Guanxy-baolitu/Guanxy-baolitu.github.io.git/media/posts/5/H5Wu-Qu-Xi-Tong-Ke-Hu-Duan-Shi-Xian-1.jpg" alt="" />
+                    项目属性 数字媒体资源管理课程Project 项目描述 公共舞厅环境下，登录系统，点播舞曲。此处舞厅可泛指需要舞曲播放的公共场地。 基于flask框架的程序框架搭建及跳转逻辑 基于Bootstrap框架的H5页面样式编写 用户管理逻辑编写
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://github.com/Guanxy-baolitu/Guanxy-baolitu.github.io.git/media/posts/5/H5Wu-Qu-Xi-Tong-Ke-Hu-Duan-Shi-Xian-1.jpg" alt="" />
+                <h4 id="项目属性">项目属性</h4>
+<ul>
+<li>数字媒体资源管理课程Project</li>
+</ul>
+<h4 id="项目描述">项目描述</h4>
+<p>公共舞厅环境下，登录系统，点播舞曲。此处舞厅可泛指需要舞曲播放的公共场地。</p>
+<div class="post__iframe"><iframe loading="lazy" frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=p0542hvog1v&amp;tiny=0&amp;auto=0" allowfullscreen=""></iframe></div>
+
+<h4 id="分工">分工</h4>
+<p>基于flask框架的程序框架搭建及跳转逻辑
+基于Bootstrap框架的H5页面样式编写
+用户管理逻辑编写</p>
+
+            ]]>
+        </content>
+    </entry>
 </feed>
